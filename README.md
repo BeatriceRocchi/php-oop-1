@@ -22,5 +22,7 @@ Fare attenzione all’organizzazione del codice, suddividendolo in appositi file
 
 ### Svolgimento
 
-1. In un file dedicato `Movie.php` definire una classe 'Movie' con le sue variabili, aggiungere un costruttore per le variabili obbligatorie ed aggiungere almeno un metodo
-2. In `index.php` creare almeno due istanze della classe 'Movie' e stampare a schermo con var_dump le istanze create
+1. In un file dedicato `Movie.php` definizione di una classe 'Movie' con le sue variabili, aggiunta di un costruttore per le variabili obbligatorie ed aggiunta di almeno un metodo
+2. In `db.php` creazione di istanze della classe 'Movie'
+3. In `index.php` implementazione del layout per la stampa in pagina
+4. Aggiunta di una classe 'Actor' in file dedicato `Actor.php` che andrà aggiunta alla creazione delle istanze
