@@ -19,3 +19,8 @@ Fare attenzione all’organizzazione del codice, suddividendolo in appositi file
 - creando un file dedicato ai dati (tipo le array di oggetti) db.php
 - mettendo ciascuna classe nel proprio file e magari raggruppando tutte le classi in una cartella dedicata che possiamo chiamare Models
 - organizzando il layout dividendo la struttura ed i contenuti in file e parziali dedicati.
+
+### Svolgimento
+
+1. In un file dedicato `Movie.php` definire una classe 'Movie' con le sue variabili, aggiungere un costruttore per le variabili obbligatorie ed aggiungere almeno un metodo
+2. In `index.php` creare almeno due istanze della classe 'Movie' e stampare a schermo con var_dump le istanze create
