@@ -1,7 +1,6 @@
 <?php
 
 require_once __DIR__ . '/Actor.php';
-
 class Movie
 {
   public $title;

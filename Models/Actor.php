@@ -15,6 +15,6 @@ class Actor
 
   public function getActorInfo()
   {
-    echo "$this->surname $this->name as $this->role";
+    echo "$this->name $this->surname as $this->role";
   }
 }
