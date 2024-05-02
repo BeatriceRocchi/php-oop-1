@@ -23,6 +23,6 @@ class Movie
 
   public function getMovieInfo()
   {
-    return "Director: $this->director &#8226; Scriptwriter: $this->scriptwriter &#8226; Music Composer: $this->musiccomposer";
+    echo "Director: $this->director &#8226; Scriptwriter: $this->scriptwriter &#8226; Music Composer: $this->musiccomposer";
   }
 }

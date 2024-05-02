@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(#f76260, #f59c9b);
+  color: white;
+  min-height: 100vh;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.info-custom {
+  font-size: 0.8rem;
+}
