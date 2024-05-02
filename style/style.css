@@ -9,6 +9,21 @@ ul {
   padding-left: 0;
 }
 
+.card-custom {
+  border: none;
+  box-shadow: 0 0 25px 5px rgba(0, 0, 0, 0.4);
+}
+
+.card-custom:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+}
+
 .info-custom {
   font-size: 0.8rem;
+}
+
+.img-custom {
+  height: 300px;
+  object-fit: cover;
 }
